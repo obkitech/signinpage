@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    color: black;
+    /* overflow: hidden; */
+    background-color: rgba(0, 25, 248, 0.205);
+    z-index: 1;
+}
+
+#signupbutton{
+    width: fit-content;
+    padding: 10px;
+    font-size: 1rem;
+    background-color: rgba(0, 0, 255, 0.808);
+    color: white;
+    border: none;
+    margin: 5vh auto 0;
+}
+#signupbutton:hover{
+    cursor: pointer;
+}
